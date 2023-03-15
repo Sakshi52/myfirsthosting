@@ -9,7 +9,7 @@ Total 8 pages is created in this project:
 5. Signin
 6. Signup
 
-And Two more pages are those are linked inside main anchors:
+And Two more pages are linked inside main anchors:
 1. Reset Password
 2. Privacy and Policy
 
